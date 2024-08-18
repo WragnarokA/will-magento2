@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1724006306;s:6:"expire";i:1810406306;s:4:"tags";s:37:"c82_LAYOUT_GENERAL_CACHE_TAG,c82_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1724024557;s:6:"expire";i:1810424557;s:4:"tags";s:37:"c82_LAYOUT_GENERAL_CACHE_TAG,c82_MAGE";}
 <?xml version="1.0"?>
 <layouts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><handle id="catalog_category_view"><body/>
 </handle><handle id="catalogsearch_advanced_index"><body/>

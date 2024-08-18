@@ -1,2 +1,2 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1724006284;s:6:"expire";i:9999999999;s:4:"tags";s:33:"c82_ACL_CACHE,c82_CONFIG,c82_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1724024540;s:6:"expire";i:9999999999;s:4:"tags";s:33:"c82_ACL_CACHE,c82_CONFIG,c82_MAGE";}
 [{"rule_id":"1","role_id":"1","resource_id":"Magento_Backend::all","privileges":null,"permission":"allow"}]
